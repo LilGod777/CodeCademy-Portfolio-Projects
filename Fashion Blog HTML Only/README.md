@@ -1,0 +1,1 @@
+HTML ONLY fashion blog page.
